@@ -1,15 +1,11 @@
 
 <div align="center">
   <a href="https://exbytestudios.com/">
-    <img src="https://exbytestudios.com/wp-content/uploads/logo.png" alt="Logo">
+    <img src="https://avatars.githubusercontent.com/u/122488582?s=200&v=4" alt="Logo">
   </a>
 </div>
 
 <br>
 
 
-We are in love with game dev and our goal is the love of our fans.
-
-Here we share and create our tools for developing and supporting your favorite games.
-
-Let's play and have fun.
+Here we will share and create our tools for developing and supporting your favorite tools.
