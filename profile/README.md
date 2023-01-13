@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="">
-    <img src="../18703370_transparent_1.png" width="400" alt="Logo">
+    <img src="https://github.com/Gefest-Vision/.github/blob/main/18703370_transparent_1.png" width="400" alt="Logo">
   </a>
 </div>
 
